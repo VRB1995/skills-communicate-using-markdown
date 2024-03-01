@@ -35,3 +35,15 @@ print("Hello, world!")
 ```
 $ cat abc > new_file.txt
 ```
+
+
+# Step 4: Make a task list
+## Example 1
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
+## Example 2
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
