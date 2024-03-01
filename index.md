@@ -6,3 +6,9 @@
 ###### This is h6 header
 
 Added 6 different headings
+
+
+# Adding an image
+##Image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
